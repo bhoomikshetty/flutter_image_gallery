@@ -1,0 +1,13 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    - always_declare_return_types
+    - avoid_print
+    - always_put_control_body_on_new_line
+    - always_use_package_imports
+    - curly_braces_in_flow_control_structures
+    - prefer_const_constructors
+    - prefer_single_quotes
+    - prefer_final_locals
+    - prefer_generic_function_type_aliases
